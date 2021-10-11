@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993574689638",
+    "firebase_url": "https://mednewsappadmin-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mednewsappadmin",
+    "storage_bucket": "mednewsappadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993574689638:android:eb4b3c54df1e506d2946a7",
+        "android_client_info": {
+          "package_name": "com.example.mednewsappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993574689638-j98kdlu0qimsh81b02o6qpqbqs69cs4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWV7zP3d55yXXTImLjEnU2MC8YT_kupKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993574689638-j98kdlu0qimsh81b02o6qpqbqs69cs4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
